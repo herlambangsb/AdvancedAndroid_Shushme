@@ -3,5 +3,5 @@ Google Places API demo app
 
 ## Screenshots
 
-![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png) ![Screenshot3](screenshots/screen_3.png)
-![Screenshot4](screenshots/screen_4.png) ![Screenshot5](screenshots/screen_5.png) ![Screenshot6](screenshots/screen_6.png)
+![Screenshot1](https://github.com/herlambangsb/AdvancedAndroid_Shushme/blob/master/1.png) ![Screenshot2](https://github.com/herlambangsb/AdvancedAndroid_Shushme/blob/master/2.png) ![Screenshot3](https://github.com/herlambangsb/AdvancedAndroid_Shushme/blob/master/3.png)
+![Screenshot4](https://github.com/herlambangsb/AdvancedAndroid_Shushme/blob/master/4.png) ![Screenshot5](https://github.com/herlambangsb/AdvancedAndroid_Shushme/blob/master/5.png)
